@@ -7,6 +7,6 @@ export class UsersController {
 
     @Post()
     Add(){
-        return 'add action' ;
+        return 'add action';
     }
 }
